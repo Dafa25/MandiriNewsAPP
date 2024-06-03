@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Warna Utama Bank Mandiri-->
+    <color name="MandiriBlue">#103A6C</color>
+    <color name="MandiriYellow">#F8B827</color>
+
+    <!--Warna Kedua Bank Mandiri-->
+    <color name="MandiriSkyBlue">#78B2E3</color>
+    <color name="MandiriOrange">#DB7829</color>
+    <color name="MandiriGrey">#adb5bd</color>
+
+    <!--Warna teks-->
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+</resources>
